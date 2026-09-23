@@ -1,0 +1,6 @@
+{
+  "name": "Galaxy Note 10 Ultra HD Launcher",
+  "description": "An ultra-realistic Samsung Galaxy Note 10 One UI launcher featuring S-Pen Air Command, Infinity-O punch hole, Edge Panels, 4K AMOLED wallpapers, and full PWA installability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
